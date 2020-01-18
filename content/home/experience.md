@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Operations First Line Supervisor"
+  company = "ExxonMobil"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  location = "Texas"
+  date_start = "2016-08-01"
+  date_end = "2020-01-06"
+  description = """Put description here."""
+#  Responsibilities include:
+ 
+#  * Responsibility 1
+#  * Responsoiblity 2
+#  * Responsibility 3
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Console Supervisor"
+  company = "ExxonMobil"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Texas"
+  date_start = "2014-01-01"
+  date_end = "2016-08-01"
+  description = """Put description here."""
 
+[[experience]]
+  title = "Process Technician"
+  company = "ExxonMobil"
+  company_url = ""
+  location = "Texas"
+  date_start = "2009-07-03"
+  date_end = "2014-01-01"
+  description = """Put description here."""
+
+[[experience]]
+  title = "Field Engineer"
+  company = "Conexus"
+  company_url = ""
+  location = "Texas"
+  date_start = "2009-02-01"
+  date_end = "2014-07-01"
+  description = """Put description here."""
+
+[[experience]]
+  title = "Programmer"
+  company = "LDAR Services"
+  company_url = ""
+  location = "Texas"
+  date_start = "2009-02-01"
+  date_end = "2014-07-01"
+  description = """Put description here."""
 +++
