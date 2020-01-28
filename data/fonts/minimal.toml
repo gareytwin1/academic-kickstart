@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Roboto:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "SometypeMono-Medium"
+body_font = "SometypeMono-Medium"
+nav_font = "SometypeMono-Medium"
+mono_font = "SometypeMono-Medium"
+

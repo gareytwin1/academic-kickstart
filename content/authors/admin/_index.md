@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Leader and Programming Advocate
+role: Leader, Programming Advocate and aspiring Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -18,31 +18,38 @@ organizations:
   url: "https://engineering.tamu.edu/etid/metm/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Organizational Leadership, Technical Management and Data Science.
+bio: MEng in Technical Management. BSc in Computer Science, BSc in Organizational Leadership and Supervision.
 
 interests:
 - Organizational Leadership
 - Technical Management
-- Programming
 - Data Science
-- Finance
+- Machine Learning
+- Financial Engineering
+- Cloud Computing
+- Stock Option strategies
 
 education:
   courses:
   - course: Pursuing a Masters of Engineering in Technical Management
-    institution: Texas A&M University 
+    institution: Texas A&M University
+    location: College Station, TX 
     year: Spring 2021
   - course: BS in Organizational Leadership and Supervision
     institution: University of Houston
+    location: Houston, TX
     year: 2018
   - course: AAS in Process Technology
     institution: Lee College
+    location: Baytown, TX
     year: 2012
   - course: AAS in Manufacturing Engineering Technology
     institution: Lee College
+    location: Baytown, TX
     year: 2012
   - course: BS in Computer Science
     institution: University of Texas at San Antonio
+    location: San Antonio, TX
     year: 2006
 
 # Social/Academic Networking
@@ -52,7 +59,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gareytwin1@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:garey@salnas.io'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin 
   icon_pack: fab
   link: https://linkedin.com/in/gareysalinas
